@@ -1,5 +1,9 @@
-### Hi there 👋
+
+<div align="center">
+<span>  </span>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=jett191&show_icons=true&theme=react&rank_icon=github" /><span> &nbsp&nbsp &nbsp&nbsp</span><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<span>  </span>
+</div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jett191&show_icons=true&theme=react)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jett191&theme=neon-palenight)](https://git.io/streak-stats)
+
