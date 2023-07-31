@@ -1,16 +1,18 @@
-
-
-
-
-
 <img src="src/header_.png">
+
+</br>
+<div align="center">
+<span>  </span>
+<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;study+together+^+^&size=34&duration=3000&center=true&pause=1000&repeat=false&color=F4606C">
+<span>  </span>
+</div>
 
 </br></br>
 
-<div align="left">
+<div align="center">
 <span>  </span>
 <img height="200px"  src="https://github-readme-stats.vercel.app/api?username=jett191&show_icons=true&theme=react&rank_icon=github&hide_border=true" />
-<img height="200px"  src="src/Loading-animation-unscreen.gif">
+
 <span> </span>
 </div>
 
