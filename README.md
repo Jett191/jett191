@@ -3,7 +3,7 @@
 
 </br></br>
 
-<div align="left">
+<div align="center">
 <span>  </span>
 <img height="200px"  src="https://github-readme-stats.vercel.app/api?username=jett191&show_icons=true&theme=react&rank_icon=github&hide_border=true" />
 <span> </span>
