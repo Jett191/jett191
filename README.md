@@ -24,6 +24,10 @@
 <img height="190px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true" />
 <span>  </span>
 <div>
+
+</br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vscode&theme=dark)](https://skillicons.dev)
   
 </br></br></br>
 
