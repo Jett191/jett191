@@ -17,7 +17,7 @@
 
 <div align="left">
 <span>  </span>
-<img height="190px" src="https://streak-stats.demolab.com/?user=jett191&theme=monokai-metallian&hide_border=true" /><span> &nbsp&nbsp &nbsp&nbsp </span>
+<img height="190px" src="https://streak-stats.demolab.com/?user=jett191&theme=monokai-metallian&hide_border=true" /><span> &nbsp&nbsp </span>
 <img height="190px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true" />
 <span>  </span>
 <div>
