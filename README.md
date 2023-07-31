@@ -1,7 +1,7 @@
 
 <div align="center">
 <span>  </span>
-<img height="180px" width="390" src="https://github-readme-stats.vercel.app/api?username=jett191&show_icons=true&theme=react&rank_icon=github" /><span> </span><img height="180px"  width="400" src="https://streak-stats.demolab.com/?user=jett191&theme=monokai-metallian" />
+<img height="180px" width="360" src="https://github-readme-stats.vercel.app/api?username=jett191&show_icons=true&theme=react&rank_icon=github" /><span> </span><img height="180px"  width="400" src="https://streak-stats.demolab.com/?user=jett191&theme=monokai-metallian" />
 <span>  </span>
 </div>
 
