@@ -10,6 +10,7 @@
 <div align="left">
 <span>  </span>
 <img height="200px"  src="https://github-readme-stats.vercel.app/api?username=jett191&show_icons=true&theme=react&rank_icon=github&hide_border=true" />
+<img height="200px"  src="src/Loading-animation-unscreen.gif">
 <span> </span>
 </div>
 
