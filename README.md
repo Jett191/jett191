@@ -3,7 +3,7 @@
 </br>
 <div align="center">
 <span>  </span>
-<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;study+together+^+^&size=34&duration=3000&center=true&pause=1000&repeat=false&color=F4606C">
+<img src="https://readme-typing-svg.demolab.com/?lines=Here+is+Jett191+😆&size=34&duration=3000&center=true&pause=1000&repeat=false&color=F4606C">
 <span>  </span>
 </div>
 
