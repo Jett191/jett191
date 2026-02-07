@@ -1,29 +1,36 @@
-<img src="src/header_.png">
+<h1 align="center">
+    Here is Jett191 👋
+</h1>
 
 </br>
-<div align="center">
-<span>  </span>
-<img src="https://readme-typing-svg.demolab.com/?lines=Here+is+Jett191+😆&size=34&duration=3000&center=true&pause=1000&repeat=false&color=F4606C">
-<span>  </span>
-</div>
+
+
 
 </br></br>
 
-<div align="center">
-<span>  </span>
-<img height="200px"  src="https://github-readme-stats.vercel.app/api?username=jett191&show_icons=true&theme=react&rank_icon=github&hide_border=true" />
 
-<span> </span>
-</div>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 Building personal tools and projects, including my blog and frontend automation.
+
+- 🌱 Learning modern frontend development and related tooling.
+
+- 🌿 Open to collaborating on practical open-source projects and frontend tools.
+
+- 💬 Happy to talk about JavaScript, frontend engineering, UI/UX, automation, and open-source.
+
+
+
 
 </br>
 
-<div align="left">
-<span>  </span>
-<img height="190px" src="https://streak-stats.demolab.com/?user=jett191&theme=dark&hide_border=true" /><span> &nbsp&nbsp </span>
-<img height="190px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true" />
-<span>  </span>
-<div>
+<p align="center">
+<a href="https://github.com/azizovrafael">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jett191&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jett191&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 </br>
 
@@ -31,4 +38,4 @@
   
 </br></br></br>
 
-[![Jett191's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jett191&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
