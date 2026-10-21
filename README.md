@@ -34,7 +34,7 @@
 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,next,html,css,tailwind,git,vscode&theme=dark)](https://skillicons.dev)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=javascript,reactjs,nextjs,tailwindcss,shadcnui,supabase,zustand,figma&perline=12&radius=76)
   
 </br></br></br>
 
