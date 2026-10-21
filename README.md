@@ -26,16 +26,26 @@
 </br>
 
 <p align="center">
-<a href="https://github.com/azizovrafael">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jett191&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jett191&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+
+
+<a href="https://github.com/Jett191">
+  <!-- GitHub Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Jett191&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;border_color=45475a">
+    <img height="180" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jett191&amp;show_icons=true&amp;theme=transparent&amp;include_all_commits=true&amp;count_private=true">
+  </picture>
+  <!-- Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jett191&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;border_color=45475a">
+    <img height="180" alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jett191&amp;layout=compact&amp;langs_count=8&amp;theme=transparent&amp;include_all_commits=true&amp;count_private=true">
+  </picture>
 </a>
+
+
+
 </p>
 
 </br>
 
 ![Skill Icons](https://skills.syvixor.com/api/icons?i=javascript,reactjs,nextjs,tailwindcss,shadcnui,supabase,zustand,figma&perline=12&radius=76)
   
-</br></br></br>
-
-
